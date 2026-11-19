@@ -13,6 +13,7 @@ var SITE = {
   nav: [
     { page: "home", href: "index.html", label: "Home" },
     { page: "products", href: "products.html", label: "Products" },
+    { page: "gallery", href: "gallery.html", label: "Gallery" },
     { page: "resources", href: "resources.html", label: "Resources" },
     { page: "about", href: "about.html", label: "About" },
     { page: "contact", href: "contact.html", label: "Contact" }

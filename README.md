@@ -2,7 +2,7 @@
 
 Static site for Firepath Sdn. Bhd. Open `index.html` in a browser (double-click the file, or drag it into a browser window). No install step and no local server are required.
 
-Pages: `index.html` (Home), `products.html`, `resources.html`, `about.html`, `contact.html`.
+Pages: `index.html` (Home), `products.html`, `gallery.html`, `resources.html`, `about.html`, `contact.html`.
 
 ## Shared template
 
